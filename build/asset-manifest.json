@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/bkorbsquare/Module-20-Challengestatic/js/main.bb35cd55.chunk.js",
+    "main.js.map": "/bkorbsquare/Module-20-Challengestatic/js/main.bb35cd55.chunk.js.map",
+    "runtime-main.js": "/bkorbsquare/Module-20-Challengestatic/js/runtime-main.1ece20e9.js",
+    "runtime-main.js.map": "/bkorbsquare/Module-20-Challengestatic/js/runtime-main.1ece20e9.js.map",
+    "index.html": "/bkorbsquare/Module-20-Challengeindex.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ece20e9.js",
+    "static/js/main.bb35cd55.chunk.js"
+  ]
+}
