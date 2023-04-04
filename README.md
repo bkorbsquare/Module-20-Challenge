@@ -17,7 +17,7 @@ On GitHub.com, navigate to the main page of the repository. Above the list of fi
 
 Use this project as a reference when building a React Portfolio.
 
-![image](./src/assets/Screenshot%202023-04-03%20225631.jpg)
+![image](./src/assets/Screenshot%202023-04-03%20231920.jpg)
 
 ## Deployed Site
 
